@@ -5,15 +5,17 @@
 
 **I am an undergraduate Computer Science Student from Poland** :poland:
 
-- 🔭 I’m currently working on a python machine learning application.
-- 🌱 I’m currently learning javascript full stack development
-- 👯 I’m looking to collaborate on great projects that helps others
-- 🤔 I’m looking for help with learning advanced react concepts
-- 💬 Ask me about my journey so far
-- 📫 How to reach me: gokulkbalachandran@gmail.com
+
+> #### I like to buid web apps using:
+>
+> - Node.js, MongoDB, Express (backend)
+> - React (frontend)
+>
+>  currently learning mobile development for android
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=gokintosh&show_icons=true&theme=radical)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokintosh&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=gokintosh&show_icons=true&theme=radical)           
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokintosh&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
