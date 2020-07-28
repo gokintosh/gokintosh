@@ -13,7 +13,7 @@
 - 📫 How to reach me: gokulkbalachandran@gmail.com
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=gokintosh&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=gokintosh&show_icons=true&theme=radical)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokintosh&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokintosh&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+
 
