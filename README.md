@@ -7,11 +7,10 @@
 
 
 > #### I like to buid web apps using:
->
-> - Node.js, MongoDB, Express (backend)
+> - Node.js, MongoDB,Spring and Springboot (backend)
 > - React (frontend)
->
->  currently learning mobile development for android
+> - MySQL and Postgresql (database)
+
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gokintosh&show_icons=true&theme=radical)           
