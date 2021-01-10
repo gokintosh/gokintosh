@@ -1,4 +1,4 @@
-### Hi there, I'm [Gokul !](https://gokintosh.github.io/gokintosh/) 👋
+### Hi there, I'm [Gokul !](https://gokulnair.netlify.app/) 👋
 
 
 
