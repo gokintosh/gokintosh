@@ -1,4 +1,4 @@
-### Hi there, I'm [Gokul !](https://gokulnair.netlify.app/) 👋
+### Hi there, I'm [Gokul !](https://gokulnair.xyz/) 👋
 
 
 
