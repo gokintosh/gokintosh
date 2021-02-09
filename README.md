@@ -7,8 +7,7 @@
 
 
 > #### I like to buid web apps using:
-> - Reactjs and Springboot
-> - MySQL and Postgresql (database)
+
        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokintosh&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
