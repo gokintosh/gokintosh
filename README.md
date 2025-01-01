@@ -1,4 +1,4 @@
-### Hi there, I'm [Gokul !](https://gokulnair.xyz/) 👋
+### Hi there, I'm [Gokul !](https://gokulnair.me/) 👋
 
 
 
